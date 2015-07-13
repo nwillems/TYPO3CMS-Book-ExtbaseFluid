@@ -2,7 +2,7 @@ Debugging with Xdebug
 =====================
 
 
-The usage of debuggers in other programming languages is default while it is special in PHP: The most PHP developer maintain bug fixing with e.g., *echo* and *var_damp* in the source code for understanding the routine. Though it's helpful to use a real debugger to comprehend errors because you can go through the source code step-by-step and look inside variables.
+The usage of debuggers in other programming languages is default while it is special in PHP: The most PHP developer maintain bug fixing with e.g., *echo* and *var_dump* in the source code for understanding the routine. Though it's helpful to use a real debugger to comprehend errors because you can go through the source code step-by-step and look inside variables.
 
 For debugging you need the PHP extension *Xdebug* *(http://xdebug.org)*. It changes the PHP configuration that you can run it step-by-step and you can inspect every variable. The development tools NetBeans and Eclipse can connect to Xdebug and enable graphical output.
 
